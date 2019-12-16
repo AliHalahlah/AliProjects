@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">RecycleView</string>
+    <string name="tutorial_finish">סיום</string>
+    <string name="tutorial_next">הבנתי</string>
+    <string name="tutorial_prev">הקודם</string>
+    <string name="drawer_item_share">שתף</string>
+    <string name="drawer_item_contact">צור קשר</string>
+    <string name="drawer_item_faq">שאלות ותשובות</string>
+    <string name="drawer_item_settings">הגדרות</string>
+    <string name="title_settings">הגדרות</string>
+    <string name="title_home">רמי לוי</string>
+    <string name="navigation_drawer_open">פתח מגירה</string>
+    <string name="navigation_drawer_close">סגור מגירה</string>
+    <string name="adjusting_for_you">מתאימים לך הטבות</string>
+    <string name="registration_title">כניסה</string>
+    <string name="registration_phone_number">מספר טלפון נייד</string>
+    <string name="proceed">המשך</string>
+    <string name="phone_confirmation_info_message">מיד נשלח אליך קוד, על מנת לאמת את מספר הטלפון שלך. מספר טלפון זה יהיה מספר החשבון שלך ב Swiich.</string>
+    <string name="phone_confirmation_confirmation_message">המספר שהוזן הוא: %1$s, האם להמשיך?</string>
+    <string name="fix">תקן</string>
+    <string name="enter_verification_code">הקלד קוד אימות</string>
+    <string name="did_not_get_it">לא קיבלתי...</string>
+    <string name="send_again"><u>שלח שוב</u></string>
+    <string name="change_number"><u>שינוי מספר טלפון</u></string>
+    <string name="Open">open</string>
+    <string name="Close">close</string>
+
+    <string-array name="area_codes">
+        <item>050</item>
+        <item>051</item>
+        <item>052</item>
+        <item>053</item>
+        <item>054</item>
+        <item>055</item>
+        <item>056</item>
+        <item>058</item>
+        <item>059</item>
+    </string-array>
+
+</resources>
+

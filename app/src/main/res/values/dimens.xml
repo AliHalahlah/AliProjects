@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="drawer_header_padding_top" type="dimen">10dp</item>
+    <item name="drawer_header_padding_bottom" type="dimen">10dp</item>
+
+    <item name="button_text_size" type="dimen">28sp</item>
+    <item name="button_side_padding" type="dimen">30dp</item>
+    <item name="button_top_bottom_padding" type="dimen">6dp</item>
+</resources>
